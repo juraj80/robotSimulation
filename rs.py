@@ -1,7 +1,7 @@
 import math
 import random
 import pylab
-import ps11_visualize
+import rs_visualize
 
 
 class Position(object):

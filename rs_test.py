@@ -1,4 +1,4 @@
-from ps11 import *
+from rs import *
 
 
 room = RectangularRoom(10,10)
